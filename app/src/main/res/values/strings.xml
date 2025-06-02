@@ -1,0 +1,34 @@
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">静听</string>
+    
+    <!-- 导航标题 -->
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">设置</string>
+    <string name="title_notifications">关于</string>
+    
+    <!-- 主页 -->
+    <string name="service_running">声音放大服务已启动</string>
+    <string name="volume_gain">音量调节</string>
+    <string name="how_to_use">使用说明</string>
+    <string name="usage_instructions">1. 连接耳机\n2. 应用已自动启动声音放大服务\n3. 向右拖动滑块可增大声音\n4. 应用会在后台持续工作</string>
+    
+    <!-- 设置页 -->
+    <string name="audio_quality">音频质量</string>
+    <string name="audio_quality_high">高质量 (44.1kHz)</string>
+    <string name="audio_quality_medium">中等质量 (22kHz)</string>
+    <string name="audio_quality_low">低质量 (16kHz)</string>
+    <string name="noise_reduction">降噪</string>
+    <string name="noise_reduction_summary">减少背景噪音，提高语音清晰度</string>
+    <string name="auto_gain_control">自动增益控制</string>
+    <string name="auto_gain_control_summary">自动调整音量以适应环境</string>
+    
+    <!-- 关于页 -->
+    <string name="about_app">静听是一款简单易用的助听应用，通过放大手机麦克风收集到的声音并传输到耳机，帮助您更清晰地听到周围的声音。</string>
+    <string name="version">版本</string>
+    <string name="version_number">1.0.0</string>
+    <string name="developer">开发者</string>
+    <string name="developer_name">静听开发团队</string>
+    <string name="permissions">权限说明</string>
+    <string name="permissions_description">本应用需要麦克风权限来捕获声音，并需要修改音频设置权限来调整音频输出。</string>
+</resources>
